@@ -107,6 +107,22 @@ body {
                  lazyelem.listen();
             });
         </script>
+
+        <script src="jquery-1.11.1.js"></script>
+<script>
+$(document).ready(function () {
+$(window).scroll(function () {
+loadImg();
+})
+function loadImg() {
+$("img").each(function () {
+if ($(this).offset().top < $(window).height() * 2 + $(window).scrollTop()) {
+$(this).attr("src", $(this).attr("lazy_src")).removeAttr("lazy_src");
+}
+});
+}
+})
+</script>
         
 
     </head>
