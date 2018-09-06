@@ -8,8 +8,14 @@
 <body>
 <script> 
 var language = (navigator.language || navigator.browserLanguage).toLowerCase();
-if (language.indexOf('zh') > -1) document.location.href = 'https://laoduandian.github.io/cn.html';
+var ua = navigator.userAgent.toLowerCase();
+var isAndroid = /android/.test(ua);
+if（isAndroid){
+document.location.href = 'https://laoduandian.github.io/en.html'
+}else{
+	if (language.indexOf('zh') > -1) document.location.href = 'https://laoduandian.github.io/cn.html';
 else document.location.href = 'https://laoduandian.github.io/en.html';
+}
 </script>
 </body>
 </html>
