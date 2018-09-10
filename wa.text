@@ -1,16 +1,16 @@
 {
-"apps": [
+apps: [
 	{
-		"appIndex": 10000,
-		"appName": "Piano Tiles",
-		"appAddress": 1003232,
-		"appProportion": 0.5
-	},
+		appIndex: 10000
+		appName: Piano Tiles
+		appAddress: 1003232
+		appProportion: 0.5
+	}
 	{
-		"appIndex": 10000,
-		"appName": "Piano Tiles",
-		"appAddress": 1003232,
-		"appProportion": 0.5
+		appIndex: 10000
+		appName: Piano Tiles
+		appAddress: 1003232
+		appProportion: 0.5
 	}
 ]
 }
