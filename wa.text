@@ -4,14 +4,14 @@ apps: [
 		appIndex: 10000
 		appName: Piano Tiles
 		appAddress: 1003232
-		appAdImageName: musictiles-ad
+		appAdImageName: musictiles-ad.jpg
 		appProportion: 0.5
 	}
 	{
 		appIndex: 10000
 		appName: Piano Tiles
 		appAddress: 1003232
-		appAdImageName: musictiles-ad
+		appAdImageName: musictiles-ad.jpg
 		appProportion: 0.5
 	}
 ]
