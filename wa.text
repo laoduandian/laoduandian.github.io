@@ -9,9 +9,9 @@ apps: [
 	}
 	{
 		appIndex: 10000
-		appName: Piano Tiles
-		appAddress: 1003232
-		appAdImageName: musictiles-ad.jpg
+		appName: Boy Go Go GO
+		appAddress: 995785137
+		appAdImageName: boygogogo-ad.jpg
 		appProportion: 0.5
 	}
 ]
