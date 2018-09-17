@@ -1,4 +1,5 @@
 {
+index: 10001
 apps: [
 	{
 		appIndex: 10000
@@ -8,7 +9,7 @@ apps: [
 		appProportion: 0.5
 	}
 	{
-		appIndex: 10000
+		appIndex: 10001
 		appName: Boy Go Go GO
 		appAddress: 995785137
 		appAdImageName: boygogogo-ad.jpg
