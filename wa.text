@@ -4,7 +4,7 @@ apps: [
 	{
 		appIndex: 10000
 		appName: Piano Tiles
-		appAddress: 1003232
+		appAddress: 1175680497
 		appAdImageName: musictiles-ad.jpg
 		appProportion: 0.5
 	}
@@ -13,7 +13,21 @@ apps: [
 		appName: Boy Go Go GO
 		appAddress: 995785137
 		appAdImageName: boygogogo-ad.jpg
-		appProportion: 0.5
+		appProportion: 0.2
+	}
+	{
+		appIndex: 10002
+		appName: The Piano Block
+		appAddress: 1032777274
+		appAdImageName: thepianoblock-ad.jpg
+		appProportion: 0.2
+	}
+	{
+		appIndex: 10003
+		appName: Spring Circle Run
+		appAddress: 1013757451
+		appAdImageName: springcirclerun-ad.jpg
+		appProportion: 0.1
 	}
 ]
 }
