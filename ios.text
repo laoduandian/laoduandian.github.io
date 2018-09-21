@@ -1,5 +1,12 @@
 {
 index: 10003
+appRestricteds: [
+	{
+		address: 1175680497
+		isAddNew: false
+		showTime: 5
+	}
+]
 apps: [
 	{
 		appIndex: 10000
