@@ -1,10 +1,14 @@
 {
-index: 10003
+index: 10004
 appRestricteds: [
 	{
 		address: 1175680497
-		isAddNew: false
+		isAddNew: true
 		showTime: 5
+		app_ad_id: ca-app-pub-2887861689802805~7729061775
+        banner_ad_id: ca-app-pub-2887861689802805/9205794970
+        interstitial_ad_id: ca-app-pub-2887861689802805/1682528175
+        rewardedVideo_ad_id: ca-app-pub-2887861689802805/1682047996
 	}
 ]
 apps: [
