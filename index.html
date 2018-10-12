@@ -172,7 +172,11 @@ body {
                             if(isAndroid){
                                 that.attr("href","https://play.google.com/store/apps/details?id="+ks[i]["page"]);
                             }else{
-                                that.attr("href","https://itunes.apple.com/us/app/id"+ks[i][that.attr("key")]);
+                                if(isEnglish){
+                                    that.attr("href","https://itunes.apple.com/us/app/id"+ks[i][that.attr("key")]);
+                                }else{
+                                     that.attr("href","https://itunes.apple.com/cn/app/id"+ks[i][that.attr("key")]);
+                                }
                             }
                          }else if(that[0].tagName=="IMG"){
                                var key=that.attr("key");
