@@ -133,6 +133,8 @@ body {
 <script>
             var language = (navigator.language || navigator.browserLanguage).toLowerCase();
             var isEnglish=language.indexOf('zh')<0;
+            var u = navigator.userAgent;
+            var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端
             
             function change(){
                 if(isEnglish){
@@ -155,6 +157,8 @@ body {
         
         function change2(isCreate){
                      for(var i=0;i<ks.length;i++){
+                        if(ks[i]["show"]=="false"&&isAndroid)
+                             continue
                          var cpy;
                          if(isCreate){
                              cpy=ite.clone();
@@ -165,11 +169,11 @@ body {
                      cpy.find("[key]").each(function(){
                          var that=$(this);
                          if(that[0].tagName=="A"){
-                             if(isEnglish){
-                                   that.attr("href","https://itunes.apple.com/us/app/id"+ks[i][that.attr("key")]);
-                                 }else{
-                                   that.attr("href","https://itunes.apple.com/cn/app/id"+ks[i][that.attr("key")]);
-                                 }
+                            if(isAndroid){
+                                that.attr("href","https://play.google.com/store/apps/details?id="+ks[i]["page"]);
+                            }else{
+                                that.attr("href","https://itunes.apple.com/us/app/id"+ks[i][that.attr("key")]);
+                            }
                          }else if(that[0].tagName=="IMG"){
                                var key=that.attr("key");
                                if(key=="down"){

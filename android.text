@@ -4,9 +4,9 @@ apps: [
 	{
 		appIndex: 10000
 		appName: Piano Tiles
-		appAddress: com.lotus.game.gametiles
+		appAddress: com.ccy.game.pianotiles.nnn
 		appAdImageName: musictiles-ad.jpg
-		appProportion: 0.5
+		appProportion: 0.3
 	}
 	{
 		appIndex: 10001
@@ -17,10 +17,10 @@ apps: [
 	}
 	{
 		appIndex: 10002
-		appName: The Piano Block
-		appAddress: com.lts.game.musicblock
-		appAdImageName: thepianoblock-ad.jpg
-		appProportion: 0.2
+		appName: Duel Of Clans
+		appAddress: com.lotus.game.tafangnumberone
+		appAdImageName: clans-ad.jpg
+		appProportion: 0.1
 	}
 	{
 		appIndex: 10003
