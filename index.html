@@ -181,14 +181,22 @@ body {
                          }else if(that[0].tagName=="IMG"){
                                var key=that.attr("key");
                                if(key=="down"){
-                                   if(isEnglish){
+                                 if (isAndroid) {
+                                     if(isEnglish){
+                                        that.attr("src","/var3dfiles/androiddown_en.png");
+                                     }else{
+                                        that.attr("src","/var3dfiles/androiddown.png");
+                                     }
+                                  }else{
+                                    if(isEnglish){
                                         that.attr("src","/var3dfiles/iosdown_en.png");
-                                       }else{
-                                           that.attr("src","/var3dfiles/iosdown.png");
-                                        }
+                                     }else{
+                                        that.attr("src","/var3dfiles/iosdown.png");
+                                     }
+                                 }          
                                }else{
                                    that.attr("lazy-src",ks[i][key]);
-                                   }
+                                }
                              }else{
                                that.text(ks[i][that.attr("key")]);
                                if(isEnglish){
