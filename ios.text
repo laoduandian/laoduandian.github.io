@@ -35,9 +35,9 @@ apps: [
 	}
 	{
 		appIndex: 10003
-		appName: Spring Circle Run
-		appAddress: 1013757451
-		appAdImageName: springcirclerun-ad.jpg
+		appName: Spring Piano Tiles
+		appAddress: 1006380436
+		appAdImageName: springpianotiles-ad.jpg
 		appProportion: 0.1
 	}
 	
