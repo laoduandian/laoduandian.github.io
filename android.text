@@ -6,7 +6,7 @@ apps: [
 		appName: Piano Tiles
 		appAddress: com.ccy.game.pianotiles.nnn
 		appAdImageName: musictiles-ad.jpg
-		appProportion: 0.3
+		appProportion: 0.2
 	}
 	{
 		appIndex: 10001
@@ -20,12 +20,12 @@ apps: [
 		appName: Duel Of Clans
 		appAddress: com.lotus.game.tafangnumberone
 		appAdImageName: clans-ad.jpg
-		appProportion: 0.1
+		appProportion: 0.5
 	}
 	{
 		appIndex: 10003
 		appName: Spring Piano Tiles
-		appAddress: 1006380436
+		appAddress: com.shenweiyi.game.piano.tiles
 		appAdImageName: springpianotiles-ad.jpg
 		appProportion: 0.1
 	}

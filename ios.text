@@ -10,6 +10,10 @@ appRestricteds: [
         interstitial_ad_id: ca-app-pub-2887861689802805/1682528175
         rewardedVideo_ad_id: ca-app-pub-2887861689802805/1682047996
 	}
+	{
+		address: 1375561039
+		isAddNew: false
+	}
 ]
 apps: [
 	{
