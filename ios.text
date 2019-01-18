@@ -3,7 +3,7 @@ index: 10006
 appRestricteds: [
 	{
 		address: 1175680497
-		isAddNew: true
+		isAddNew: false
 		showTime: 5
 		app_ad_id: ca-app-pub-2887861689802805~7729061775
         banner_ad_id: ca-app-pub-2887861689802805/9205794970
