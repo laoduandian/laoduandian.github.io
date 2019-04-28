@@ -1,5 +1,5 @@
 {
-index: 10007
+index: 10008
 appRestricteds: [
 	{
 		address: 1175680497
@@ -13,6 +13,10 @@ appRestricteds: [
 	{
 		address: 1375561039
 		isAddNew: true
+	}
+	{
+		address: 1006380436
+		isAddNew: false
 	}
 ]
 apps: [
