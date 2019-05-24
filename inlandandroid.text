@@ -7,7 +7,7 @@ apps: [
 		appAddress: com.ccy.game.pianotiles.nnn
 		appAdImageName: musictiles-ad.jpg
 		appProportion: 0.2
-		inlandAddress: https://www.baidu.com
+		inlandAddress: www.baidu.com
 	}
 	{
 		appIndex: 10001
@@ -15,7 +15,7 @@ apps: [
 		appAddress: com.lotus.game.boygogo.android
 		appAdImageName: boygogogo-ad.jpg
 		appProportion: 0.2
-		inlandAddress: https://www.baidu.com
+		inlandAddress: www.baidu.com
 	}
 	{
 		appIndex: 10002
@@ -23,7 +23,7 @@ apps: [
 		appAddress: com.lotus.game.tafangnumberone
 		appAdImageName: clans-ad.jpg
 		appProportion: 0.5
-		inlandAddress: https://www.baidu.com
+		inlandAddress: www.baidu.com
 	}
 	{
 		appIndex: 10003
@@ -31,7 +31,7 @@ apps: [
 		appAddress: com.shenweiyi.game.piano.tiles
 		appAdImageName: springpianotiles-ad.jpg
 		appProportion: 0.1
-		inlandAddress: https://www.baidu.com
+		inlandAddress: www.baidu.com
 	}
 ]
 }
