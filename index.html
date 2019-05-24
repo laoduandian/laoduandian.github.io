@@ -170,7 +170,11 @@ body {
                          var that=$(this);
                          if(that[0].tagName=="A"){
                             if(isAndroid){
-                                that.attr("href","https://play.google.com/store/apps/details?id="+ks[i]["page"]);
+                                if(isEnglish){
+                                    that.attr("href","https://play.google.com/store/apps/details?id="+ks[i]["page"]);
+                                }else{
+                                    that.attr("href","https://play.google.com/store/apps/details?id="+ks[i]["inland"]);
+                                }
                             }else{
                                 if(isEnglish){
                                     that.attr("href","https://itunes.apple.com/us/app/id"+ks[i][that.attr("key")]);

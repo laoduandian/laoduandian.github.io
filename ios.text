@@ -16,7 +16,7 @@ appRestricteds: [
 	}
 	{
 		address: 1006380436
-		isAddNew: false
+		isAddNew: true
 	}
 ]
 apps: [
