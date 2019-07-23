@@ -1,0 +1,34 @@
+{
+index: 10008
+apps: [
+	{
+		appIndex: 10000
+		appName: Piano Tiles
+		appAddress: 1175680497
+		appAdImageName: musictiles-ad.jpg
+		appProportion: 0.3
+	}
+	{
+		appIndex: 10001
+		appName: Boy Go Go GO
+		appAddress: 995785137
+		appAdImageName: boygogogo-ad.jpg
+		appProportion: 0.1
+	}
+	{
+		appIndex: 10002
+		appName: Duel Of Clans
+		appAddress: 1375561039
+		appAdImageName: clans-ad.jpg
+		appProportion: 0.5
+	}
+	{
+		appIndex: 10003
+		appName: Spring Piano Tiles
+		appAddress: 1006380436
+		appAdImageName: springpianotiles-ad.jpg
+		appProportion: 0.1
+	}
+	
+]
+}

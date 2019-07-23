@@ -1,0 +1,37 @@
+{
+index: 10003
+apps: [
+	{
+		appIndex: 10000
+		appName: Piano Tiles
+		appAddress: com.ccy.game.pianotiles.nnn
+		appAdImageName: musictiles-ad.jpg
+		appProportion: 0.2
+		inlandAddress: www.baidu.com
+	}
+	{
+		appIndex: 10001
+		appName: Boy Go Go GO
+		appAddress: com.lotus.game.boygogo.android
+		appAdImageName: boygogogo-ad.jpg
+		appProportion: 0.2
+		inlandAddress: www.baidu.com
+	}
+	{
+		appIndex: 10002
+		appName: Duel Of Clans
+		appAddress: com.lotus.game.tafangnumberone
+		appAdImageName: clans-ad.jpg
+		appProportion: 0.5
+		inlandAddress: www.baidu.com
+	}
+	{
+		appIndex: 10003
+		appName: Spring Piano Tiles
+		appAddress: com.shenweiyi.game.piano.tiles
+		appAdImageName: springpianotiles-ad.jpg
+		appProportion: 0.1
+		inlandAddress: www.baidu.com
+	}
+]
+}
