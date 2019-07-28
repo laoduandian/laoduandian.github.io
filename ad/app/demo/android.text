@@ -4,6 +4,6 @@
   isAddNew: true
   showTime: 5
   adsOnOff: true
-  adsChannel: gdt
+  adsChannel: 4
   adsFile: ads01.text
 }
