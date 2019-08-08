@@ -1,7 +1,27 @@
 {
+	//admob
 	app_ad_id: ca-app-pub-2887861689802805~7729061775
-        banner_ad_id: ca-app-pub-2887861689802805/9205794970
-        interstitial_ad_id: ca-app-pub-2887861689802805/1682528175
-        rewardedVideo_ad_id: ca-app-pub-2887861689802805/1682047996
-
+    banner_ad_id: ca-app-pub-2887861689802805/9205794970
+    interstitial_ad_id: ca-app-pub-2887861689802805/1682528175
+    rewardedVideo_ad_id: ca-app-pub-2887861689802805/1682047996
+	//Uad
+	app_uad_id: ca-app-pub-2887861689802805~7729061775
+    banner_uad_id: ca-app-pub-2887861689802805/9205794970
+    interstitial_uad_id: ca-app-pub-2887861689802805/1682528175
+    rewardedVideo_uad_id: ca-app-pub-2887861689802805/1682047996
+    //gdt
+    app_gdtad_id: ca-app-pub-2887861689802805~7729061775
+    banner_gdtad_id: ca-app-pub-2887861689802805/9205794970
+    interstitial_gdtad_id: ca-app-pub-2887861689802805/1682528175
+    rewardedVideo_gdtad_id: ca-app-pub-2887861689802805/1682047996
+    //baidu
+    app_bdad_id: ca-app-pub-2887861689802805~7729061775
+    banner_bdad_id: ca-app-pub-2887861689802805/9205794970
+    interstitial_bdad_id: ca-app-pub-2887861689802805/1682528175
+    rewardedVideo_bdad_id: ca-app-pub-2887861689802805/1682047996
+    //csj
+    app_csjad_id: ca-app-pub-2887861689802805~7729061775
+    banner_csjad_id: ca-app-pub-2887861689802805/9205794970
+    interstitial_csjad_id: ca-app-pub-2887861689802805/1682528175
+    rewardedVideo_csjad_id: ca-app-pub-2887861689802805/1682047996
 }

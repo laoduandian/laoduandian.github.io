@@ -1,8 +1,7 @@
 {
-  index: 10003
+  index: 10004
   isAddNew: true
   showTime: 5
-  adsOnOff: true
   adsFile: ads01.text
   inlandAddress: www.baidu.com
   adsChannelios: 1
