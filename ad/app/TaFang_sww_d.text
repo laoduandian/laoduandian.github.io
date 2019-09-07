@@ -1,11 +1,11 @@
 {
   index: 10005
-  isAddNew: true
+  isAddNew: false
   showTime: 5
   adsFile: ads01.text
   adsFileIos: ads02.text
   inlandAddress: www.baidu.com
   adsChannelios: 1
   adsChannelgol: 3
-  adsChanneltap: 28
+  adsChanneltap: 999
 }
