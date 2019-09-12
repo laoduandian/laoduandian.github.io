@@ -4,8 +4,8 @@
   showTime: 5
   adsFile: ads01.text
   adsFileIos: ads02.text
-  inlandAddress: www.baidu.com
+  inlandAddress: https://www.taptap.com/app/175647
   adsChannelios: 1
   adsChannelgol: 3
-  adsChanneltap: 999
+  adsChanneltap: 20
 }
