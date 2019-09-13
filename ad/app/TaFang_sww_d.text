@@ -1,5 +1,5 @@
 {
-  index: 10006
+  index: 10007
   isAddNew: false
   showTime: 5
   adsFile: ads01.text
@@ -7,5 +7,5 @@
   inlandAddress: https://www.taptap.com/app/175647
   adsChannelios: 1
   adsChannelgol: 3
-  adsChanneltap: 20
+  adsChanneltap: 16
 }
